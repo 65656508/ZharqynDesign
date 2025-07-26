@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZHARQYN DESIGN</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        header { background-color: #333; color: #fff; padding: 10px; text-align: center; }
+        section { padding: 20px; }
+        footer { background-color: #333; color: #fff; text-align: center; padding: 10px; position: fixed; bottom: 0; width: 100%; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>ZHARQYN DESIGN</h1>
+        <nav>
+            <a href="#about">О нас</a> |
+            <a href="#services">Услуги</a> |
+            <a href="#visualization">3D-визуализация</a> |
+            <a href="#advantages">Преимущества</a> |
+            <a href="#contact">Контакты</a>
+        </nav>
+    </header>
+    
+    <section id="about">
+        <h2>О нас</h2>
+        <p>Компания ZHARQYN DESIGN специализируется на создании фотореалистичных 3D-визуализаций интерьеров и экстерьеров.</p>
+        <p>Почта: akjarkinbek8@gmail.com</p>
+    </section>
+    
+    <section id="services">
+        <h2>Услуги</h2>
+        <ul>
+            <li>Дизайн интерьера и экстерьера</li>
+            <li>Архитектурные проекты</li>
+            <li>3D дизайн визуализация и моделирование</li>
+            <li>Подбор и комплектация стройтельных материалов</li>
+            <li>Консультанция по проектам</li>
+        </ul>
+    </section>
+    
+    <section id="visualization">
+        <h2>Что такое 3D-визуализация и зачем нужна</h2>
+        <p>3D-визуализация позволяет клиенту увидеть, как будет выглядеть его квартира после ремонта, с учетом всех материалов, цветов и элементов декора.</p>
+        <p>Цель визуализации: Показать клиенту, как будет выглядеть его квартира после ремонта.</p>
+        <p>Цена 3D-визуализации: 250тг./кв.м.</p>
+    </section>
+    
+    <section id="advantages">
+        <h2>Преимущества работы с нами</h2>
+        <ol>
+            <li>Создание модели всего за 1-2 дня.</li>
+            <li>Возможность создать трехмерную модель.</li>
+            <li>Создание нескольких вариантов.</li>
+            <li>Проработка освещения.</li>
+            <li>Примерка стилей.</li>
+            <li>Расстановка мебели.</li>
+            <li>Замена любых элементов дизайна.</li>
+            <li>Удобство.</li>
+        </ol>
+    </section>
+    
+    <section id="contact">
+        <h2>Контакты</h2>
+        <p>Ватсап: <a href="[invalid url, do not cite]
+        <p>Мы находимся в городе Қызылорда</p>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2434.7914422259532!2d4.846715115802702!3d52.392330979790174!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47cf563ab55249e3:0x59292938484b2f34!2sFoleon!5e0!3m2!1sen!2snl!4v1632382921275!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        
+        <h3>Закажите консультацию</h3>
+        <form action="[invalid url, do not cite] method="POST">
+            <label for="name">Ваше имя:</label>
+            <input type="text" name="name" id="name" required>
+            <label for="phone">Ваш телефон:</label>
+            <input type="tel" name="phone" id="phone" required>
+            <label for="area">Площадь проекта:</label>
+            <input type="text" name="area" id="area" required>
+            <button type="submit">Отправить заявку</button>
+        </form>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 ZHARQYN DESIGN</p>
+    </footer>
+</body>
+</html>
